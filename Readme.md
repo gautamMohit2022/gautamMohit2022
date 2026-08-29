@@ -118,16 +118,12 @@ philosophy  : "Ship systems that respect the data they touch."
 ### `$ ./contribution_graph.sh --render`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gautamMohit2022&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gautamMohit2022&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gautamMohit2022&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamMohit2022&theme=github-dark-blue&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamMohit2022&layout=compact&theme=chartreuse-dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamMohit2022&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=1800" width="45%" />
 </p>
 
 ---
@@ -135,7 +131,7 @@ philosophy  : "Ship systems that respect the data they touch."
 ### `$ cat trophies.log`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gautamMohit2022&theme=algolia&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gautamMohit2022&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
 </p>
 
 ---
