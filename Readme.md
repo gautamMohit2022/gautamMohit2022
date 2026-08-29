@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Mohit Gautam 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+FastAPI+%2B+PostgreSQL;M.Tech+CSE+%40+IIIT+Guwahati;Federated+Learning+%26+Privacy-Preserving+ML;Technical+Intern+%40+NeGD%2C+MeitY" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+FastAPI+%2B+PostgreSQL;M.Tech+CSE+%40+IIIT+Guwahati;Federated+Learning+%26+Privacy-Preserving+ML;Technical+Intern+%40+NeGD%2C+MeitY" alt="Typing SVG" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=6EE7B7&center=true&vCenter=true&width=800&height=90&lines=%24+cd+fairmedfl+%26%26+python+train.py+--dp-sgd;%24+docker-compose+up+--build;%24+pytest+--cov%3D.+--fairness-audit;%24+git+push+origin+main+%E2%9C%93" alt="Terminal Loop" />
 </p>
 
 <p align="center">
