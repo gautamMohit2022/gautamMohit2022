@@ -19,7 +19,7 @@
 
 ---
 
-### `$ whoami`
+
 
 ```yaml
 name        : Mohit Gautam
@@ -34,7 +34,7 @@ philosophy  : "Ship systems that respect the data they touch."
 
 ---
 
-### `$ cat system_architecture.md`
+
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -51,7 +51,7 @@ philosophy  : "Ship systems that respect the data they touch."
 
 ---
 
-### `$ cat tech_stack.json`
+
 
 <table>
 <tr><td valign="top" width="50%">
@@ -95,7 +95,7 @@ philosophy  : "Ship systems that respect the data they touch."
 
 ---
 
-### `$ ls -la projects/`
+Projects
 
 **`fairmedfl/`** — Federated learning framework for privacy-preserving ICU mortality prediction on MIMIC-IV v3.1. Implements DP-SGD, Paillier homomorphic encryption for secure aggregation, fairness auditing (SPD, AEOD, PAA, FCV), and DP-NAM for explainability. Extended into **FairMedFL OS**, a production-grade SaaS with role-based ERP workspaces (Admin / Hospital / Clinician), one Zustand store per business entity, modular ERP-style sidebar architecture.
 `Stack → React · Vite · TypeScript · Tailwind · Shadcn · Zustand · FastAPI · PostgreSQL · Redis · Flower`
@@ -105,7 +105,7 @@ philosophy  : "Ship systems that respect the data they touch."
 
 ---
 
-### `$ ./snake_game.sh --animate`
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gautamMohit2022/gautamMohit2022/output/github-contribution-grid-snake-dark.svg" width="100%" />
@@ -115,7 +115,7 @@ philosophy  : "Ship systems that respect the data they touch."
 
 ---
 
-### `$ ./contribution_graph.sh --render`
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gautamMohit2022/gautamMohit2022/main/github-metrics.svg" width="100%" />
