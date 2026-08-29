@@ -9,6 +9,10 @@
   <img src="https://img.shields.io/github/followers/gautamMohit2022?label=Followers&style=flat&color=00FF9C" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gautamMohit2022&repo=fairmedfl&theme=chartreuse-dark&hide_border=true" width="45%" />
+</p>
+
 ---
 
 ### `$ whoami`
@@ -16,7 +20,7 @@
 ```yaml
 name        : Mohit Gautam
 role        : Backend Engineer / M.Tech CSE Student
-current_org : IIIT Guwahati (M.Tech CSE, Online)
+current_org : IIIT Guwahati (M.Tech CSE)
 internship  : National e-Governance Division, MeitY — CMS content validation, QA & migration
 education   : B.Tech CSE, SRM Institute of Science and Technology (CGPA: 8.53/10, 2026)
 certs       : ["AWS Data Engineering (S3, Glue, Redshift)", "NPTEL SQL/DBMS"]
@@ -94,6 +98,16 @@ philosophy  : "Ship systems that respect the data they touch."
 
 **`fintrack/`** — Backend service with SQLAlchemy 2.0 ORM, JWT-based authentication, and a full REST API surface for financial data tracking.
 `Stack → FastAPI · PostgreSQL · SQLAlchemy 2.0 · JWT`
+
+---
+
+### `$ ./snake_game.sh --animate`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gautamMohit2022/gautamMohit2022/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+> ⚠️ The snake animation above requires a one-time GitHub Actions setup — see step-by-step below.
 
 ---
 
