@@ -111,7 +111,6 @@ Projects
   <img src="https://raw.githubusercontent.com/gautamMohit2022/gautamMohit2022/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
-> ⚠️ The snake animation above requires a one-time GitHub Actions setup — see step-by-step below.
 
 ---
 
@@ -121,7 +120,6 @@ Projects
   <img src="https://raw.githubusercontent.com/gautamMohit2022/gautamMohit2022/main/github-metrics.svg" width="100%" />
 </p>
 
-> ⚠️ This auto-generated stats card requires a one-time GitHub Actions setup — see step-by-step below.
 
 ---
 
