@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mohit%20Gautam&fontSize=50&fontColor=00FF9C&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Federated%20Learning%20%7C%20Data%20Engineering&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=200&section=header&text=Mohit%20Gautam&fontSize=50&fontColor=7aa2f7&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Federated%20Learning%20%7C%20Data%20Engineering&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+FastAPI+%2B+PostgreSQL;M.Tech+CSE+%40+IIIT+Guwahati;Federated+Learning+%26+Privacy-Preserving+ML;Technical+Intern+%40+NeGD%2C+MeitY" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+FastAPI+%2B+PostgreSQL;M.Tech+CSE+%40+IIIT+Guwahati;Federated+Learning+%26+Privacy-Preserving+ML;Technical+Intern+%40+NeGD%2C+MeitY" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=gautamMohit2022&label=PROFILE+VIEWS&color=00FF9C&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/gautamMohit2022?label=FOLLOWERS&style=for-the-badge&color=00FF9C&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=gautamMohit2022&label=PROFILE+VIEWS&color=7aa2f7&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/gautamMohit2022?label=FOLLOWERS&style=for-the-badge&color=7aa2f7&logo=github"/>
 
 </div>
 
@@ -25,7 +25,7 @@ focus       : backend systems · federated learning · privacy-preserving ML · 
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,ts,js,c,fastapi,postgres,redis,aws,docker,githubactions,pytorch,react,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,c,fastapi,postgres,redis,aws,docker,githubactions,pytorch,react,tailwind,vite&theme=dark" />
 </div>
 
 ## Featured Projects
@@ -39,16 +39,16 @@ focus       : backend systems · federated learning · privacy-preserving ML · 
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gautamMohit2022&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamMohit2022&theme=github-dark-blue&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gautamMohit2022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamMohit2022&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamMohit2022&layout=compact&theme=chartreuse-dark&hide_border=true" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamMohit2022&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gautamMohit2022&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gautamMohit2022&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
 
 ## Connect
@@ -58,4 +58,4 @@ focus       : backend systems · federated learning · privacy-preserving ML · 
 <a href="https://www.linkedin.com/in/mohit-gautam-2b4813229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b26&height=120&section=footer" width="100%"/>
