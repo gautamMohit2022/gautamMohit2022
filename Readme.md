@@ -126,7 +126,7 @@ Privacy-preserving healthcare prediction system across a **28-node MIMIC-IV v3.1
 <img src="https://raw.githubusercontent.com/gautamMohit2022/gautamMohit2022/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
-> ⚠️ This animated snake eats your contribution graph — it needs a one-time GitHub Actions setup (workflow provided below) to generate automatically.
+
 
 <br/>
 
