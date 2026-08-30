@@ -136,9 +136,8 @@ Privacy-preserving healthcare prediction system across a **28-node MIMIC-IV v3.1
 <img src="https://github-readme-stats.vercel.app/api?username=gautamMohit2022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamMohit2022&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamMohit2022&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gautamMohit2022&theme=tokyo-night&hide_border=true" width="98%"/>
+
 </div>
 
 <br/>
