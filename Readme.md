@@ -24,12 +24,22 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">
+
 - 🎓 Currently pursuing **M.Tech in Computer Science & Engineering** at **IIIT Guwahati** *(2026 – 2028)*
 - 🏛️ B.Tech in CSE from **SRM Institute of Science & Technology** *(2022 – 2026)* — CGPA **8.53/10**
 - 💼 **Technical Intern** at **National e-Governance Division (NeGD), MeitY, Govt. of India** — working on government digital platform modernization
 - 🔬 Interested in **Federated Learning**, **Differential Privacy**, **Fair & Interpretable ML**, and **Backend / Data Engineering**
 - 📝 Co-authoring a research paper on fairness-aware federated learning for healthcare, submitted to the *Journal of the Nigerian Society of Physical Sciences*
 - 📫 Reach me at **gautampm2006@gmail.com**
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="230">
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="230">
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="230">
+</div>
 
 <br/>
 
@@ -107,6 +117,16 @@ Privacy-preserving healthcare prediction system across a **28-node MIMIC-IV v3.1
 <img src="https://skillicons.dev/icons?i=git,github,netlify" />
 
 </div>
+
+<br/>
+
+## 🐍 Contribution Graph — Snake Edition
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/gautamMohit2022/gautamMohit2022/output/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
+
+> ⚠️ This animated snake eats your contribution graph — it needs a one-time GitHub Actions setup (workflow provided below) to generate automatically.
 
 <br/>
 
