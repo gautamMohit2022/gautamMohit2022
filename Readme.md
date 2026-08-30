@@ -1,30 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=180&section=header&text=Mohit%20Gautam&fontSize=45&fontColor=00FF9C&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Federated%20Learning%20%7C%20Data%20Engineering&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=180&section=header&text=Mohit%20Gautam&fontSize=45&fontColor=7aa2f7&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Federated%20Learning%20%7C%20Data%20Engineering&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
 
 </div>
 
-<br/>
-
-<!-- ================= SECTION: IDENTITY SCANNER ================= -->
+<!-- ================= IDENTITY ================= -->
 ## 🔍 Identity
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/gautamMohit2022/gautamMohit2022/main/face-scanner.svg" width="380"/>
+<img src="https://raw.githubusercontent.com/gautamMohit2022/gautamMohit2022/main/aerial.svg" width="650"/>
 </div>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+FastAPI+%2B+PostgreSQL;M.Tech+CSE+%40+IIIT+Guwahati;Federated+Learning+%26+Privacy-Preserving+ML;Technical+Intern+%40+NeGD%2C+MeitY" alt="Typing SVG"/>
 </div>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=gautamMohit2022&label=PROFILE+VIEWS&color=7aa2f7&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/gautamMohit2022?label=FOLLOWERS&style=for-the-badge&color=7aa2f7&logo=github"/>
-</div>
-
 <br/>
 
-<!-- ================= SECTION: ABOUT ================= -->
+<!-- ================= ABOUT ================= -->
 ## 👤 About
 
 ```yaml
@@ -38,7 +31,7 @@ focus       : backend systems · federated learning · privacy-preserving ML · 
 
 <br/>
 
-<!-- ================= SECTION: TECH STACK ================= -->
+<!-- ================= TECH STACK ================= -->
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -47,7 +40,7 @@ focus       : backend systems · federated learning · privacy-preserving ML · 
 
 <br/>
 
-<!-- ================= SECTION: PROJECTS ================= -->
+<!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Projects
 
 <table>
@@ -56,16 +49,16 @@ focus       : backend systems · federated learning · privacy-preserving ML · 
 
 **[FairMedFL](https://github.com/gautamMohit2022/FairMedFL)**
 
-Federated learning framework for privacy-preserving ICU mortality prediction on MIMIC-IV v3.1. Implements DP-SGD, Paillier homomorphic encryption, fairness auditing (SPD, AEOD, PAA, FCV), and DP-NAM explainability. Extended into **FairMedFL OS**, a production SaaS with role-based ERP workspaces (Admin / Hospital / Clinician).
+Federated learning framework for privacy-preserving ICU mortality prediction on MIMIC-IV v3.1. DP-SGD, Paillier homomorphic encryption, fairness auditing (SPD, AEOD, PAA, FCV), DP-NAM explainability. Extended into **FairMedFL OS** — a production SaaS with role-based ERP workspaces.
 
-`React · Vite · TypeScript · Tailwind · Zustand · FastAPI · PostgreSQL · Redis · Flower`
+`React · FastAPI · PostgreSQL · Redis · Flower`
 
 </td>
 <td width="50%" valign="top">
 
 **[FinTrack](https://github.com/gautamMohit2022/finance-fix)**
 
-Backend service with SQLAlchemy 2.0 ORM, JWT-based authentication, and a full REST API surface for financial data tracking.
+Backend service with SQLAlchemy 2.0 ORM, JWT authentication, and a full REST API surface for financial data tracking.
 
 `FastAPI · PostgreSQL · SQLAlchemy 2.0 · JWT`
 
@@ -75,7 +68,15 @@ Backend service with SQLAlchemy 2.0 ORM, JWT-based authentication, and a full RE
 
 <br/>
 
-<!-- ================= SECTION: ANIMATIONS ================= -->
+<!-- ================= LIVE ACTIVITY (auto-updates every 30 min) ================= -->
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
+
+<!-- ================= CONTRIBUTION ANIMATION ================= -->
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -84,33 +85,17 @@ Backend service with SQLAlchemy 2.0 ORM, JWT-based authentication, and a full RE
 
 <br/>
 
-## 📊 Metrics
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/gautamMohit2022/gautamMohit2022/main/github-metrics.svg" width="100%"/>
-</div>
-
-<br/>
-
-<!-- ================= SECTION: STATS ================= -->
-## 📈 GitHub Stats
+<!-- ================= STATS (single card, no clutter) ================= -->
+## 📊 Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gautamMohit2022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamMohit2022&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamMohit2022&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gautamMohit2022&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
-
 <br/>
 
-<!-- ================= SECTION: CONTACT ================= -->
+<!-- ================= CONNECT ================= -->
 ## 📫 Connect
 
 <div align="center">
