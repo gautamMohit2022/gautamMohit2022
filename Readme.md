@@ -1,15 +1,148 @@
-# 💫 About Me:
-<br>### About Me<br><br>* **Name:** Mohit Gautam<br>* **Education:** M.Tech student at IIIT Guwahati<br>* **Background:** B.Tech graduate with a CGPA of 8.53<br>* **Interests:** Software Development, Backend Development, Software Testing, QA, Problem Solving, and System Design<br>* **Current Experience:** Working as a Software/QA Intern, where I perform UAT and regression testing, identify and document bugs, verify fixes on Dev and UAT environments, and work with developers to resolve issues.<br>* **Technical Areas:** Java, Python, SQL, Data Structures & Algorithms, Backend Development, REST APIs, Authentication, Database concepts, Concurrency, Deadlocks, and Idempotency.<br>* **Testing Experience:** Functional Testing, UAT Testing, Regression Testing, Bug Identification, Bug Reporting, Test Validation, and requirement/feature verification.<br>* **Career Goal:** Looking for opportunities in Software Development, Backend Engineering, SDET/QA Engineering, and Product Engineering roles.<br><br>### Achievements & Experience<br><br>* Participated in multiple technical hiring processes and coding assessments.<br>* Cleared multiple interview rounds for software/product roles.<br>* Worked on testing examination and recruitment-related applications.<br>* Identified multiple functional and validation issues and coordinated with developers for fixes.<br>* Experienced in checking issues across Dev and UAT environments and validating resolved bugs.<br>* Familiar with software engineering concepts such as authentication, idempotency, concurrency, and deadlock handling.<br><br>### README Requirements<br><br>Create an attractive but professional GitHub profile README containing:<br><br>1. A short introduction with my name and current role/education.<br>2. A concise "About Me" section.<br>3. Technical skills grouped into meaningful categories.<br>4. Programming languages and technologies.<br>5. Software testing/QA skills.<br>6. GitHub stats and contribution sections.<br>7. Featured projects section with placeholders for my best projects.<br>8. Education section.<br>9. Current learning/interests section.<br>10. Contact/social links with placeholders.<br>11. A clean GitHub profile visitor counter or similar optional element.<br>12. Appropriate technology icons/badges.<br><br>Keep the design **clean, modern, professional, and recruiter-friendly**. Avoid excessive emojis, unnecessary animations, or overly flashy sections. Make the README easy to scan and optimized for recruiters and software engineering hiring managers.<br><br>Do not invent projects, certifications, job titles, companies, skills, or achievements that I have not provided. Use placeholders where information is missing.<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Mohit%20Gautam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%7C%20Federated%20Learning%20%7C%20Backend%20%2F%20Data%20Engineering&descAlignY=58&descAlign=50" width="100%"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=gautamMohit2022 &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=gautamMohit2022 &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gautamMohit2022 &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://www.linkedin.com/in/mohit-gautam-2b4813229/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/gautamMohit2022">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:gautampm2006@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
-[![](https://komarev.com/ghpvc/?username=gautamMohit2022 &icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=M.Tech+CSE+%40+IIIT+Guwahati+(2026-2028);Ex-B.Tech+CSE+%40+SRM+IST+(CGPA+8.53%2F10);Technical+Intern+%40+NeGD%2C+MeitY;Federated+Learning+%2B+Differential+Privacy;Full-Stack+%26+Data+Engineering" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 👨‍💻 About Me
+
+- 🎓 Currently pursuing **M.Tech in Computer Science & Engineering** at **IIIT Guwahati** *(2026 – 2028)*
+- 🏛️ B.Tech in CSE from **SRM Institute of Science & Technology** *(2022 – 2026)* — CGPA **8.53/10**
+- 💼 **Technical Intern** at **National e-Governance Division (NeGD), MeitY, Govt. of India** — working on government digital platform modernization
+- 🔬 Interested in **Federated Learning**, **Differential Privacy**, **Fair & Interpretable ML**, and **Backend / Data Engineering**
+- 📝 Co-authoring a research paper on fairness-aware federated learning for healthcare, submitted to the *Journal of the Nigerian Society of Physical Sciences*
+- 📫 Reach me at **gautampm2006@gmail.com**
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 [FairMedFL](https://github.com/gautamMohit2022)
+**Fair, Interpretable & Secure Federated Learning for Healthcare AI**
+
+Privacy-preserving healthcare prediction system across a **28-node MIMIC-IV v3.1** clinical federation — no centralized patient data.
+
+- ⚖️ Fairness-aware modeling (SPD, AEOD) via Neural Additive Models
+- 🔒 DP-SGD to bound information leakage
+- 🛡️ Adversarial robustness against fairness-poisoning attacks
+
+`Python` `TensorFlow` `Differential Privacy` `NAMs`
+
+</td>
+<td width="50%">
+
+### 💰 [FinTrack](https://github.com/gautamMohit2022)
+**Full-Stack Finance Tracking System**
+
+8 analytics endpoints computing income, expense, category & monthly summaries across 6 months of transactional data.
+
+- 🗄️ PostgreSQL data model with SQLAlchemy 2.0
+- 📊 Chart.js analytics dashboard + CSV export
+- ☁️ Deployed on Netlify
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `JWT`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql" />
+
+**Data & ML**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Cloud & Data Engineering**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Frameworks & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Analytics & BI**
+
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,netlify" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gautamMohit2022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamMohit2022&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamMohit2022&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gautamMohit2022&theme=tokyo-night&hide_border=true" width="98%"/>
+</div>
+
+<br/>
+
+## 📜 Certifications
+
+- 🗄️ **NPTEL** — Database Management System, IIT / NPTEL (2025)
+- ☁️ **AWS Academy** — Data Engineering, Amazon Web Services (2024)
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+<a href="https://www.linkedin.com/in/mohit-gautam-2b4813229/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/gautamMohit2022">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=gautamMohit2022&label=Profile+Views&color=00c6ff&style=for-the-badge" />
+
+</div>
