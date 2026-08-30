@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=M.Tech+CSE+%40+IIIT+Guwahati+(2026-2028);Ex-B.Tech+CSE+%40+SRM+IST+(CGPA+8.53%2F10);Technical+Intern+%40+NeGD%2C+MeitY;Federated+Learning+%2B+Differential+Privacy;Full-Stack+%26+Data+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=M.Tech+CSE+%40+IIIT+Guwahati+(2026-2028);B.Tech+CSE+%40+SRM+IST+(CGPA+8.53%2F10);Technical+Intern+%40+NeGD%2C+MeitY;Federated+Learning+%2B+Differential+Privacy;Full-Stack+%26+Data+Engineering" alt="Typing SVG" />
 
 </div>
 
