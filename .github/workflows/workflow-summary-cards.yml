@@ -11,14 +11,14 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate summary cards
-        uses: vn7n24fzkq18/github-profile-summary-cards@release
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          github_user: gautamMohit2022
-          # Card themes: available themes include github_dark, tokyonight, gotham, github, etc.
-          card: >-
-            grid, gitHubActivityDaysCard, gitHubActivityGraphCard,
-            gitHubStatsCard, gitHubTrophiesCard, gitHubRepoPerLanguageCard,
-            gitHubProductiveTimeCard
+          USERNAME: gautamMohit2022
+          UTC_OFFSET: 5.5
